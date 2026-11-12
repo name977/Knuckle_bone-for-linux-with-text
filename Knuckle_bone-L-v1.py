@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import random, time, sys
 
 # Each board has 3 columns (lists of numbers)
