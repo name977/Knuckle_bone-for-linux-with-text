@@ -7,4 +7,4 @@ python3 Knuckle_bone-L-v1.py
 
 or you can make it executable
 chmod +x knucklebones.py
-./knucklebones.py
+./Knuckle_bone-L-v1.py
